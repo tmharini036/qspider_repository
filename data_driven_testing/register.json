@@ -1,0 +1,28 @@
+[
+    {
+        "url":"https://demoapps.qspiders.com/ui/login",
+        "email" :"harini@gmail.com",
+        "Password" : "12345"
+    },
+     {
+        "url":"https://demoapps.qspiders.com/ui/login",
+        "email" :"Yashu@gmail.com",
+        "Password" : "12345"
+    },
+     {
+        "url":"https://demoapps.qspiders.com/ui/login",
+        "email" :"Usha@gmail.com",
+        "Password" : "12345"
+    },
+     {
+        "url":"https://demoapps.qspiders.com/ui/login",
+        "email" :"Harshitha@gmail.com",
+        "Password" : "12345"
+    },
+     {
+        "url":"https://demoapps.qspiders.com/ui/login",
+        "email" :"Shashi@gmail.com",
+        "Password" : "12345"
+    }
+
+]

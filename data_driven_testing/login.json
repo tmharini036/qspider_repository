@@ -1,0 +1,33 @@
+
+[
+    {
+        "url" :"https://demoapps.qspiders.com/ui?scenario=1",
+        "username" : "manasa",
+        "email" : "mailto:manasa@gmail.com",
+        "password" : "manasa@123"
+    },
+    {
+        "url" :"https://demoapps.qspiders.com/ui?scenario=1",
+        "username" : "pooja",
+        "email" : "mailto:pooja@gmail.com",
+        "password" : "pooja@123"
+    },
+    {
+        "url" :"https://demoapps.qspiders.com/ui?scenario=1",
+        "username" : "harini",
+        "email" : "mailto:harini@gmail.com",
+        "password" : "harini@123"
+    },
+    {
+        "url" :"https://demoapps.qspiders.com/ui?scenario=1",
+        "username" : "yogita",
+        "email" : "mailto:yogita@gmail.com",
+        "password" : "yogita@123"
+    },
+    {
+        "url" :"https://demoapps.qspiders.com/ui?scenario=1",
+        "username" : "Ashutosh",
+        "email" : "mailto:ashutosh@gmail.com",
+        "password" : "ashutosh@123"
+    }
+] 
