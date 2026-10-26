@@ -26,7 +26,7 @@ import {test} from '@playwright/test'
 // test('insertText',async({page})=>{
 //     await page.goto('https://demoapps.qspiders.com/ui?scenario=1')
 //     await page.locator('//input[@id="password"]').click()
-//     await page.keyboard.insertText('abc@123')
+//     await page.k/eyboard.insertText('abc@123')
 // })
 
 //? Press multiple keys - 
